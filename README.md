@@ -1,3 +1,3 @@
 # hello-world
 Test repository
-Learning how to github 
+Replacing line 3 with this new text. Time for more coffee
